@@ -2,17 +2,14 @@
 > Conversión de los Ejemplos de VueJs a Leptos [Ejemplos de VueJs](https://vuejs.org/examples/#hello-world)
 
 ## Tabla de contenidos
-* [Introducción](#introduccion)
+* [Hello World](#HelloWorld)
 * [Documentación para replicar](#replicar)
 * [Preguntas frecuentes](#preguntas)
 * [Contacto](#contacto)
 
-## Introducción <a name="introduccion"></a> 
-  ### Yew 1:
-  - Est proyecto no sirve para nada más que para que yo conozca yew
-  - Creo que puede ser útil para evaluar las posibilidades de Yew y cambiar de VueJs a Rust
-  - Este proyecto existe para animar a más gente a trabajar con Yew
-
+## Hello World <a name="HelloWorld"></a> 
+  - Se crea una variable String reactiva
+  - Se debe observar que se llama a mensaje.
 
 ## Documentación para replicar <a name="replicar"></a> 
   ### Escribe aquí:
