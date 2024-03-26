@@ -9,7 +9,7 @@
 
 ## Hello World <a name="HelloWorld"></a> 
   - Se crea una variable String reactiva
-  - Se debe observar que se llama a mensaje.
+  - Se muestra el contenido de la variable en un h1
 
 ## Documentación para replicar <a name="replicar"></a> 
   ### Escribe aquí:
