@@ -7,7 +7,7 @@
 * [Preguntas frecuentes](#preguntas)
 * [Contacto](#contacto)
 
-## Introducción <a href="https://vuejs.org/examples/#hello-world"name="introduccion"></a> 
+## Introducción <a href="https://vuejs.org/examples/#hello-world" name="introduccion"></a> 
   ### Yew 1:
   - Est proyecto no sirve para nada más que para que yo conozca yew
   - Creo que puede ser útil para evaluar las posibilidades de Yew y cambiar de VueJs a Rust
