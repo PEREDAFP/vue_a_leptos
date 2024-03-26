@@ -3,7 +3,7 @@
 
 ## Tabla de contenidos
 * [Hello World](#HelloWorld)
-* [Documentación para replicar](#replicar)
+* [Atribute bindings](#atributeBindings)
 * [Preguntas frecuentes](#preguntas)
 * [Contacto](#contacto)
 
@@ -11,10 +11,8 @@
   - Se crea una variable String reactiva
   - Se muestra el contenido de la variable en un h1
 
-## Documentación para replicar <a name="replicar"></a> 
-  ### Escribe aquí:
-  ¿Cómo se hace una copia de tu proyecto?
-  - Describe los pasos que tus usuarios deben seguir para usar el contenido de  tu repositorio.
+## Atribute Bindings <a name="atributeBindings"></a> 
+  - Trabajamos con los atributos de los componentes de manera reactivao.
 
   ¿Qué se necesita para usar tu proyecto?
   - Especifica si es necesario contar con una tecnología para el uso de tu proyecto
