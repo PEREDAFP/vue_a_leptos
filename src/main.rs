@@ -1,19 +1,17 @@
 use leptos::*;
-
+//TODO tengo que revisar cómo utilizar los módulos
 mod components;
 use components::texto_libre::TextoLibre;
+use components::texto_libre2::TextoLibre2;
+use components::boton_contador::BotonContador;
+
 
 #[component]
 fn App() -> impl IntoView {
-    let (count, set_count) = create_signal(0);
-    view! {
-        <button on:click=move |_| {set_count.update(|n|*n +=1);}>
-        "Pincha"
-        </button>
-        <h1>
-        {count}
-        </h1>
+   view! {
+        <BotonContador />
         <TextoLibre />
+        <TextoLibre2 />
 
     }
 }
