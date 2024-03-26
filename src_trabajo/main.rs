@@ -2,17 +2,17 @@ use leptos::*;
 //TODO tengo que revisar cómo utilizar los módulos
 mod components;
 use components::texto_libre::TextoLibre;
-use components::texto_libre2::TextoLibre2;
 use components::boton_contador::BotonContador;
 
 
 #[component]
 fn App() -> impl IntoView {
+    let (texto, set_texto)=create_signal("Desde el componente".to_string());
+
    view! {
         <BotonContador />
-        <TextoLibre />
-        <TextoLibre2 />
-
+        <TextoLibre texto={texto} num="jijiji".to_string()/>
+        
     }
 }
 
